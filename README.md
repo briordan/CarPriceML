@@ -1,7 +1,7 @@
 # CarPriceML Using Ridge Regression to predict a car price based on features
 
 ## Overview
-Using a dataset from Kaggle to predict a car price based on features and find the features that most 
+Using data from Kaggle to predict a car price based on features; and find the features that most 
 heavily influence the price.
 
 Cleaned up the data by dropping records that were missing data.  Used one hot encoding for categorical data 
